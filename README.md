@@ -1,0 +1,1 @@
+# flutter-QR-App-scanner-with-generator
